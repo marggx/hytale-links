@@ -41,8 +41,8 @@ Let's build this Hytale resource hub together!
 
 - [📰 News & Updates](#-news--updates)
 - [👥 Communities](#-communities)
-- [🛠️ Community Projects](#-community-projects)
-- [⌨️ Development Resources](#-development-resources)
+- [🚀 Community Projects](#-community-projects)
+- [</> Development Resources](#---development-resources)
 - [🎨 Creative Resources](#-creative-resources)
 - [📖 Learning Resources](#-learning-resources)
 - [🤝 Contributing / License](#-contributing--license-)
@@ -92,13 +92,13 @@ Let's build this Hytale resource hub together!
 
 </details>
 
-## 🛠️ Community Projects
+## 🚀 Community Projects
 
 | Projects                   | Purpose                                  | Link                                                                                                                                                                                            |
 | -------------------------- | ---------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Hytale Twitter Tracker** | Tracking official Staff Twitter activity | [![Tool](https://img.shields.io/badge/Link-4CAF50?style=for-the-badge)](https://docs.google.com/spreadsheets/d/1NzgcJR9scPE_ti8k4vS9ShEwftdTuJVBMsVXGv5dETc/edit?gid=1347949467#gid=1347949467) |
 
-## ⌨️ Development Resources
+## </> Development Resources
 
 | Resources                   | Purpose                                 | Link                                                                                                                                        |
 | --------------------------- | --------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- |
