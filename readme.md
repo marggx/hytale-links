@@ -42,7 +42,7 @@ Let's build this Hytale resource hub together!
 - [📰 News & Updates](#-news--updates)
 - [👥 Communities](#-communities)
 - [🚀 Community Projects](#-community-projects)
-- [</> Development Resources](#---development-resources)
+- [</> Development Resources](#-development-resources)
 - [🎨 Creative Resources](#-creative-resources)
 - [📖 Learning Resources](#-learning-resources)
 - [🤝 Contributing / License](#-contributing--license-)
