@@ -27,7 +27,7 @@ _A comprehensive, curated collection of Hytale resources, tools, community conte
 
 ---
 
-### [🤝 Contributing / License](#contributing-license)
+### [🤝 Contributing / License](#-contributing--license-)
 
 Found something awesome that should be on this list? We'd love your contribution!
 
@@ -39,13 +39,13 @@ Let's build this Hytale resource hub together!
 
 ## 📋 Table of Contents
 
-- [📰 News & Updates](#📰-news--updates)
-- [👥 Communities](#👥-communities)
-- [🛠️ Community Projects](#🛠️-community-projects)
-- [⌨️ Development Resources](#⌨️-development-resources)
-- [🎨 Creative Resources](#🎨-creative-resources)
-- [📖 Learning Resources](#📖-learning-resources)
-- [🤝 Contributing / License](#contributing-license)
+- [📰 News & Updates](#-news--updates)
+- [👥 Communities](#-communities)
+- [🛠️ Community Projects](#-community-projects)
+- [⌨️ Development Resources](#-development-resources)
+- [🎨 Creative Resources](#-creative-resources)
+- [📖 Learning Resources](#-learning-resources)
+- [🤝 Contributing / License](#-contributing--license-)
 
 ## 📰 News & Updates
 
@@ -127,7 +127,7 @@ Let's build this Hytale resource hub together!
 
 </div>
 
-## 🌟 Contributing / License <a id='contributing-license'></a>
+## 🌟 Contributing / License
 
 **Help make this the ultimate Hytale resource!**
 
