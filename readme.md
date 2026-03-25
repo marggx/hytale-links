@@ -66,6 +66,9 @@ Let's build this Hytale resource hub together!
 | **Official Hytale** | [![Discord](https://img.shields.io/badge/Join-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/invite/hytale)     |
 | **Kweebec Corner**  | [![Discord](https://img.shields.io/badge/Join-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/invite/AWkjNSVKkQ) |
 | **The Myne**        | [![Discord](https://img.shields.io/badge/Join-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/HjQMh7H4K6)         |
+| **Grimoria**        |  [![Discord](https://img.shields.io/badge/Join-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/zJ8ByST6t3)         |
+| **ZHorde**          |  [![Discord](https://img.shields.io/badge/Join-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/tEp8UbcgQc)         |
+
 
 ### Reddit
 
@@ -73,6 +76,14 @@ Let's build this Hytale resource hub together!
 | ---------------- | --------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **r/Hytale**     | Main community discussion   | [![Reddit](https://img.shields.io/badge/r/hytale-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/r/hytale/)         |
 | **r/HytaleInfo** | News, updates & information | [![Reddit](https://img.shields.io/badge/r/HytaleInfo-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/r/HytaleInfo/) |
+| r/BestHytaleSeeds | Best Hytale Game Seeds is a place to share awesome Hytale seeds of world generation, beauty, speed running and also sharing the best Hytale builds. | [![Reddit](https://img.shields.io/badge/r/hytale-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/r/BestHytaleSeeds/) |
+| r/hytaleseeds | Whether you just want to share a breathtaking Hytale world with rare generation or are a speedrunner, this is the right place for you! | [![Reddit](https://img.shields.io/badge/r/hytale-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/r/hytaleseeds/) |
+| r/HytaleModding | You are more than welcome to: • Share your mods. • Share your artwork. • Share ideas for mod developers. Whether you’re a server host, a creator, a mod developer, or someone who just wants to see how far the community can push the game, this sub is for you. | [![Reddit](https://img.shields.io/badge/r/hytale-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/r/HytaleModding/) |
+| r/HytaleMods | A modding community for Hytale! Share your ideas, designs and more! This community is entirely open for the enjoyment of Hytale and pushing it far beyond its limits! | [![Reddit](https://img.shields.io/badge/r/hytale-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/r/HytaleMods/) |
+| r/HytaleOwners | The community for Hytale server owners, admins & operators. Share tips, discuss mods, get help, grow your server. | [![Reddit](https://img.shields.io/badge/r/hytale-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/r/HytaleOwners/) |
+| r/HyTaleServer | A hub for Hytale Servers players and server owners. | [![Reddit](https://img.shields.io/badge/r/hytale-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/r/HyTaleServer/) |
+| r/HytaleServers | This community is all about sharing and discovering new servers to play on in Hytale. | [![Reddit](https://img.shields.io/badge/r/hytale-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/r/HytaleServers/) |
+
 
 ### Staff X/Twitter
 
