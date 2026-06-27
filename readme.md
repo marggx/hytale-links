@@ -109,13 +109,9 @@ Let's build this Hytale resource hub together!
 
 ## 🎨 Creative Resources
 
-<div align="center">
-
-### 🚧 Under Construction 🚧
-
-![kweebec construct](img/UnderConstructionKweebec64.png "kweebec construct")
-
-</div>
+| Resource                     | Purpose                                                                                     | Link                                                                                                                                        |
+| ---------------------------- | ------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Hytale Character Recipes** | Fan-made character look recreation archive with screenshots, recipe JSON, and creator paths | [![Tool](https://img.shields.io/badge/Link-4CAF50?style=for-the-badge)](https://hytalecharacter.com/) |
 
 ## 📖 Learning Resources
 
