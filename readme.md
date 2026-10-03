@@ -127,6 +127,10 @@ Let's build this Hytale resource hub together!
 
 </div>
 
+### 📖 Hytale Wikis
+
+- **[Hytale Wiki](https://hytale-wiki.fun/)** — English wiki with quests, items, creatures, biomes, crafting and build guides, kept in sync with the current game version.
+
 ## 🌟 Contributing / License
 
 **Help make this the ultimate Hytale resource!**
